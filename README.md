@@ -27,3 +27,7 @@
 
 ## Метрики  
 В качестве метрики для оценки ваших рекомендаций используется RocAuc.  
+
+## Никнейм на Kaggle  
+Aleksey Konotop  
+[Ссылка на лидерборд:](https://www.kaggle.com/competitions/recommendationsv4/leaderboard#)
